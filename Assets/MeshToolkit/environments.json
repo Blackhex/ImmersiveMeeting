@@ -1,12 +1,12 @@
 {
   "uploadEntries": [
     {
-      "assetId": "",
-      "name": "",
+      "assetId": "c1054739-3ea8-4c55-9e7f-040e97f349ea",
+      "name": "Immersive Meeting",
       "isEnabled": true,
       "uploadItems": [
         {
-          "prefabFilepath": "",
+          "prefabFilepath": "Assets/Scenes/MeetingRoom.unity",
           "buildPlatforms": [
             "android",
             "pc"
@@ -14,8 +14,10 @@
         }
       ],
       "perPlatformAssets": false,
+      "thumbnailImagesFolder": "Assets\\MeshToolkit\\Thumbnails\\c1054739",
       "includeThumbnail": false,
-      "thumbnailGenerationBehavior": "Autogenerate"
+      "thumbnailGenerationBehavior": "Autogenerate",
+      "metaverseId": "6c289f0f-9dcf-4d2f-b9f1-9e17071eab9c"
     }
   ]
 }
